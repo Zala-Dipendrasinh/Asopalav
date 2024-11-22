@@ -21,13 +21,14 @@
                           Read More
                         </a>
                       </div>
-                    </div>
+                    </div>   
                   </div>
                   <div class="col-md-6">
                     <div class="img-box">
                       <img src="images/slider-img.png" alt="">
                     </div>
-                  </div>
+                  </div> 
+                  retstanding
                 </div>
               </div>
             </div>
