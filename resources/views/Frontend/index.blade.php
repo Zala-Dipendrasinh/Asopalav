@@ -28,10 +28,10 @@
                       <img src="images/slider-img.png" alt="">
                     </div>
                   </div> 
-                  retstanding
                 </div>
               </div>
             </div>
+            tests
             <div class="carousel-item ">
               <div class="container ">
                 <div class="row">
